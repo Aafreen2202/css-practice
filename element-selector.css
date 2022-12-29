@@ -1,0 +1,29 @@
+     /* element selector (element name) */
+                p{
+                    background-color: blueviolet;
+                    font-size: large;
+                    font-family: 'Times New Roman', Times, serif;
+                }
+                div {
+                    background-color: brown;
+
+                }
+                /*id selector (#) */
+                #uniqueHeading {
+                    color: red;
+                    background-color: aliceblue;
+                    border: 2px solid black;
+
+                }
+
+                   /* class selector (.) */
+                   .center {
+                    text-align: center;
+                    color:red;
+                   }
+                    /*universal selector (*) */
+                    *
+                    {
+                        text-align: center;
+                        border: 5 dotted;
+                    }
