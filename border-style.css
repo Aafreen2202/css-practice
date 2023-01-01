@@ -1,24 +1,43 @@
 p.dotted{
     border-style: dotted;
+    border-width: medium;
+    border-color: red;
 
 }
 p.dashed{
     border-style: dashed;
+    border-width: thick;
+    border-color: blue;
+
+
 
 }
-p.dotted{
+p.solid{
     border-style: solid;
+    border-width: 2px;
+    border-color:brown;
+    border-radius: 5px;
+
 
 }
-p.dotted{
-    border-style: dotted;
+p.double{
+    border-style: double;
+    border-width: 1cm;
+    border-color:yellowgreen;
+
 
 }
-p.dotted{
-    border-style: dotted;
+p.groove{
+    border-style: groove;
+    border-width: thin;
+    border-color: slateblue;
+
 
 }
-p.dotted{
-    border-style: dotted;
+div.dashed{
+    border-style: dashed;
+    border-width: initial;
+    border-color: darkgoldenrod;
+
 
 }
