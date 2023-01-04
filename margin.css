@@ -1,0 +1,42 @@
+
+
+        div {
+            margin: 70px;
+            background-color: aquamarine;
+            border: 10px solid blueviolet;
+        }
+  #t{
+    color: brown;
+    background-color:deepskyblue;
+    padding: 25px 20px 15px 10px;
+    border: 10px solid red;
+    margin: 30px;
+
+
+   }
+
+   .a{
+    text-align: center;
+    
+   }
+   .b{
+    text-align: end;
+   }
+   .c{
+    text-align: justify;
+   }
+
+   .h{
+    direction: rtl;
+   unicode-bidi: bidi-override;
+   }
+   .d{
+    text-decoration: line-through;
+   }
+   .e{
+    text-decoration:overline;
+   } .f{
+    text-decoration: underline;
+   } .g{
+    text-decoration: overline underline;
+   }
