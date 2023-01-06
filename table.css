@@ -1,0 +1,26 @@
+#customers{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th{
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){
+    background-color: aliceblue;
+
+}
+#customers tr:hover{
+    background-color: coral;
+}
+
+#customers th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:blue;
+    color: white;
+}
